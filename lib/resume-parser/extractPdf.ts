@@ -36,6 +36,28 @@ async function loadPdfjs(): Promise<PdfjsModule> {
   return pdfjsPromise;
 }
 
+let bundledWorkerPromise: Promise<unknown> | null = null;
+
+/**
+ * Loads the worker as an app chunk instead of a file in /public.
+ *
+ * Importing it registers `globalThis.pdfjsWorker`, which pdf.js picks up in
+ * place of fetching `workerSrc`. Parsing then runs on the main thread, so this
+ * is only a rescue path for hosts where the copy step never produced
+ * /pdf.worker.min.mjs — a slower import beats telling the user their file is
+ * unreadable when it is perfectly fine.
+ */
+async function loadBundledWorker(): Promise<void> {
+  bundledWorkerPromise ??= import("pdfjs-dist/build/pdf.worker.min.mjs");
+  await bundledWorkerPromise;
+}
+
+/** pdf.js could not start a worker; the document itself is not the problem. */
+function isWorkerFailure(error: unknown): boolean {
+  const message = (error as Error)?.message ?? "";
+  return /fake worker|dynamically imported module|worker/i.test(message);
+}
+
 /** Groups text items that share a baseline into single lines. */
 function itemsToLines(items: PdfTextItem[], pageNumber: number): ExtractedLine[] {
   const rows = new Map<number, PdfTextItem[]>();
@@ -142,14 +164,23 @@ export async function extractPdf(file: File): Promise<ExtractionResult> {
   const pdfjs = await loadPdfjs();
   const buffer = await file.arrayBuffer();
 
-  let doc: Awaited<ReturnType<typeof pdfjs.getDocument>["promise"]>;
-  try {
-    doc = await pdfjs.getDocument({
+  const open = () =>
+    pdfjs.getDocument({
       data: new Uint8Array(buffer),
       isEvalSupported: false,
       // Keeps pdf.js from fetching standard font data over the network.
       useSystemFonts: true,
     }).promise;
+
+  let doc: Awaited<ReturnType<typeof pdfjs.getDocument>["promise"]>;
+  try {
+    try {
+      doc = await open();
+    } catch (error) {
+      if (!isWorkerFailure(error)) throw error;
+      await loadBundledWorker();
+      doc = await open();
+    }
   } catch (error) {
     const name = (error as { name?: string })?.name ?? "";
     const message = (error as Error)?.message ?? "";
@@ -166,6 +197,13 @@ export async function extractPdf(file: File): Promise<ExtractionResult> {
         "corrupt",
         "This PDF could not be opened.",
         "The file may be damaged. Try re-exporting it, or continue manually.",
+      );
+    }
+    if (isWorkerFailure(error)) {
+      throw new ResumeParseError(
+        "unknown",
+        "PDF support could not start in this browser.",
+        "Reload the page and try again, or upload a DOCX or TXT copy of your resume instead.",
       );
     }
     throw new ResumeParseError("unknown", "We could not read this PDF.", message);
