@@ -1,0 +1,41 @@
+JORDAN OKAFOR
+Product Designer
+hello@jordanokafor.design · dribbble.com/jordanokafor · behance.net/jordanokafor
+
+ABOUT ME
+Product designer who started in print and never lost the habit of sketching before opening Figma. I work best embedded in a team, close to research and close to the build.
+
+WHERE I'VE WORKED
+
+Product Designer
+Fielder & Co.
+09/2022 - present
+• Redesigned the onboarding flow after watching twelve support calls
+• Built and maintain the design system used across four product areas
+• Run fortnightly critique sessions with engineers invited by default
+
+Digital Designer
+Studio Marrow
+06/2019 - 08/2022
+• Designed marketing sites and product interfaces for early-stage clients
+• Introduced component libraries so handover stopped being a redraw
+
+ACADEMIC BACKGROUND
+BA Graphic Communication, Central Saint Martins, 2016 - 2019
+
+WHAT I KNOW
+Design: Figma, Sketch, prototyping, design systems
+Research: Interviews, usability testing, synthesis
+Other: HTML, CSS, basic React
+
+THINGS I'VE MADE
+Fieldnote - a note-taking app for researchers. Figma, React.
+Slate - an open-source type scale generator. jordanokafor.design/slate
+
+RECOGNITION
+Site of the Day, Awwwards, 2021
+
+SPOKEN LANGUAGES
+English - Native
+Yoruba - Fluent
+French - Basic

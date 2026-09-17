@@ -1,0 +1,43 @@
+Rudra Panchal
+React Native Developer
+rudra.panchal@example.com | +91 98765 43210 | Ahmedabad, Gujarat, India
+linkedin.com/in/rudrapanchal | github.com/rudrapanchal
+
+PROFESSIONAL SUMMARY
+React Native developer with four years of experience building cross-platform apps for retail and logistics teams. Comfortable owning a feature from design review through store release, and happiest working close to the people using the product.
+
+WORK EXPERIENCE
+
+Senior React Native Developer
+Northwind Labs, Ahmedabad
+Mar 2023 - Present
+• Rebuilt the order tracking screen, cutting Android crash reports reported by support
+• Introduced a shared component library used by three product squads
+• Set up over-the-air release checks so regressions are caught before store submission
+
+React Native Developer
+Kite Studio, Remote
+Jul 2021 - Feb 2023
+• Shipped an offline-first delivery app used by warehouse staff on low-end devices
+• Migrated the codebase to TypeScript alongside two other developers
+• Added end-to-end tests for the checkout flow with Detox
+
+EDUCATION
+
+B.E. Computer Engineering
+Gujarat Technological University
+2017 - 2021
+8.4 CGPA
+
+TECHNICAL SKILLS
+Mobile: React Native, Expo, Reanimated
+Web: React, TypeScript, Next.js
+Backend: Node.js, PostgreSQL, REST
+Tooling: Git, Fastlane, Jest, Detox
+
+PROJECTS
+
+Trailhead
+A hiking log app with offline maps and route sharing.
+React Native, SQLite, MapLibre
+github.com/rudrapanchal/trailhead

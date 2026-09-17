@@ -1,0 +1,81 @@
+Meera Raghavan
+Engineering Manager, Platform
+meera.raghavan@example.com
++44 7700 900123
+London, United Kingdom
+linkedin.com/in/meeraraghavan
+github.com/meeraraghavan
+meeraraghavan.dev
+
+SUMMARY
+Engineering manager with twelve years across payments, identity and internal platform teams. I moved into management in 2018 and still review code weekly. Most of my work is about making delivery predictable without turning teams into ticket factories.
+
+PROFESSIONAL EXPERIENCE
+
+Engineering Manager, Platform
+Loomis Financial, London
+Jan 2022 - Present
+• Lead three teams covering identity, payments orchestration and developer tooling
+• Introduced a service catalogue that replaced tribal knowledge about ownership
+• Ran the migration of eleven services off a shared database, one team at a time
+• Hired nine engineers and two tech leads, with a structured interview loom
+• Cut the time to provision a new service from two weeks to under a day
+
+Staff Engineer
+Loomis Financial, London
+Mar 2020 - Dec 2021
+• Designed the tokenisation service that now fronts every card transaction
+• Wrote the migration plan that let the payments team stop writing to the legacy ledger
+• Mentored four engineers, two of whom now lead their own teams
+
+Senior Backend Engineer
+Halden Pay, Manchester
+Feb 2018 - Feb 2020
+• Owned the settlement pipeline, including the nightly reconciliation job
+• Replaced hand-rolled retries with an idempotency layer, ending duplicate captures
+• Added structured logging and tracing across eight services
+
+Backend Engineer
+Halden Pay, Manchester
+Aug 2016 - Jan 2018
+• Built the merchant onboarding API and its webhook delivery system
+• Moved the deployment pipeline from Jenkins to GitHub Actions
+
+Backend Engineer
+Cartwright Systems, Leeds
+Sep 2014 - Jul 2016
+• Maintained a Django monolith serving twelve regional insurers
+• Wrote the reporting exports finance had previously assembled by hand
+
+Junior Developer
+Cartwright Systems, Leeds
+Jul 2013 - Aug 2014
+• Fixed defects across the claims module and learned to read a stack trace properly
+• Wrote the first integration tests the team had
+
+EDUCATION
+
+MSc Computer Science
+University of Manchester
+2012 - 2013
+
+BSc Mathematics
+University of Leeds
+2009 - 2012
+
+CERTIFICATIONS
+AWS Certified Solutions Architect - Professional, Amazon Web Services, 2021
+Certified Kubernetes Administrator, CNCF, 2020
+
+SKILLS
+Languages: Go, Python, TypeScript, SQL
+Platform: Kubernetes, Terraform, AWS, Kafka
+Practice: Incident review, hiring, technical strategy, mentoring
+
+LANGUAGES
+English - Native
+Tamil - Fluent
+German - Intermediate
+
+AWARDS
+Engineering Excellence Award, Loomis Financial, 2023

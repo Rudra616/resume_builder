@@ -1,0 +1,306 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@theme inline {
+  --font-sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto,
+    "Helvetica Neue", Arial, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, monospace;
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+}
+
+:root {
+  --radius: 0.75rem;
+
+  --background: #f7f8fb;
+  --foreground: #10141c;
+  --card: #ffffff;
+  --card-foreground: #10141c;
+  --popover: #ffffff;
+  --popover-foreground: #10141c;
+  --primary: #14213d;
+  --primary-foreground: #f8fafc;
+  --secondary: #eef1f6;
+  --secondary-foreground: #1c2431;
+  --muted: #f1f3f7;
+  --muted-foreground: #626c7d;
+  --accent: #e8edf7;
+  --accent-foreground: #14213d;
+  --destructive: #b42318;
+  --destructive-foreground: #fff5f4;
+  --border: #e2e6ee;
+  --input: #dfe3ec;
+  --ring: #94a3b8;
+
+  /* Assistant severity palette — restrained, professional. */
+  --severity-error: #b42318;
+  --severity-error-bg: #fef3f2;
+  --severity-warning: #b54708;
+  --severity-warning-bg: #fffaeb;
+  --severity-suggestion: #175cd3;
+  --severity-suggestion-bg: #eff8ff;
+  --severity-success: #067647;
+  --severity-success-bg: #ecfdf3;
+}
+
+.dark {
+  --background: #0b0e14;
+  --foreground: #f2f4f8;
+  --card: #12161f;
+  --card-foreground: #f2f4f8;
+  --popover: #12161f;
+  --popover-foreground: #f2f4f8;
+  --primary: #f2f4f8;
+  --primary-foreground: #12161f;
+  --secondary: #1c222e;
+  --secondary-foreground: #f2f4f8;
+  --muted: #1a1f2a;
+  --muted-foreground: #9aa4b5;
+  --accent: #1f2734;
+  --accent-foreground: #f2f4f8;
+  --destructive: #f97066;
+  --destructive-foreground: #1a1f2a;
+  --border: #232a37;
+  --input: #2a323f;
+  --ring: #4b5563;
+}
+
+@layer base {
+  * {
+    border-color: var(--border);
+  }
+
+  body {
+    background-color: var(--background);
+    color: var(--foreground);
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  ::selection {
+    background: #14213d;
+    color: #ffffff;
+  }
+}
+
+@keyframes accordion-down {
+  from {
+    height: 0;
+  }
+  to {
+    height: var(--radix-accordion-content-height);
+  }
+}
+
+@keyframes accordion-up {
+  from {
+    height: var(--radix-accordion-content-height);
+  }
+  to {
+    height: 0;
+  }
+}
+
+@utility animate-accordion-down {
+  animation: accordion-down 0.2s ease-out;
+}
+
+@utility animate-accordion-up {
+  animation: accordion-up 0.2s ease-out;
+}
+
+@utility scrollbar-slim {
+  scrollbar-width: thin;
+  &::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+  &::-webkit-scrollbar-thumb {
+    background: color-mix(in srgb, var(--muted-foreground) 30%, transparent);
+    border-radius: 999px;
+    border: 3px solid transparent;
+    background-clip: content-box;
+  }
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+}
+
+/* ---------------------------------------------------------------------------
+   Resume page rendering
+   The resume is real, selectable HTML text at A4 dimensions. It is never
+   rasterised into an image, so exported PDFs keep selectable text and links.
+--------------------------------------------------------------------------- */
+
+.resume-page {
+  width: 210mm;
+  min-height: 297mm;
+  background: #ffffff;
+  color: var(--resume-text, #1f2733);
+  font-family: var(--resume-font, sans-serif);
+  font-size: var(--resume-font-size, 10.5pt);
+  line-height: var(--resume-line-height, 1.45);
+  box-sizing: border-box;
+  position: relative;
+  overflow-wrap: break-word;
+}
+
+.resume-page a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.resume-page a:hover {
+  text-decoration: underline;
+}
+
+.resume-page h1,
+.resume-page h2,
+.resume-page h3,
+.resume-page h4 {
+  font-family: var(--resume-heading-font, var(--resume-font, sans-serif));
+  margin: 0;
+}
+
+.resume-page p {
+  margin: 0;
+}
+
+.resume-page ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+/* Keeps entries from splitting awkwardly across printed pages. */
+.resume-block {
+  break-inside: avoid;
+  page-break-inside: avoid;
+}
+
+.resume-section {
+  break-inside: auto;
+}
+
+.resume-shell {
+  /* Screen-only page shadow; removed for print. */
+  box-shadow:
+    0 1px 2px rgba(16, 20, 28, 0.06),
+    0 12px 40px -12px rgba(16, 20, 28, 0.28);
+}
+
+/* ---------------------------------------------------------------------------
+   Print / PDF export
+--------------------------------------------------------------------------- */
+
+@page {
+  size: A4;
+  margin: 0;
+}
+
+@media print {
+  html,
+  body {
+    background: #ffffff !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 210mm;
+  }
+
+  body * {
+    visibility: hidden;
+  }
+
+  #resume-print-root,
+  #resume-print-root * {
+    visibility: visible;
+  }
+
+  #resume-print-root {
+    position: absolute;
+    inset: 0 auto auto 0;
+    margin: 0;
+    padding: 0;
+    width: 210mm;
+    background: #ffffff;
+  }
+
+  .print-hidden,
+  [data-print="hidden"] {
+    display: none !important;
+  }
+
+  .resume-shell {
+    box-shadow: none !important;
+    border: none !important;
+    margin: 0 !important;
+    border-radius: 0 !important;
+  }
+
+  .resume-page {
+    width: 210mm !important;
+    min-height: 297mm;
+    box-shadow: none !important;
+    break-after: page;
+  }
+
+  .resume-page:last-child {
+    break-after: auto;
+  }
+
+  /* Keeps template background colours and sidebars in the exported PDF. */
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  a {
+    text-decoration: none !important;
+  }
+}
+
+/* Spelling underline used inside editor textareas' overlay */
+.spell-underline {
+  text-decoration: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: var(--severity-warning);
+  text-underline-offset: 3px;
+}
+
+/* Brief confirmation flash on the builder's "Saved locally" indicator. */
+@keyframes saved-pulse {
+  0%,
+  55% {
+    color: var(--severity-success);
+  }
+  100% {
+    color: var(--muted-foreground);
+  }
+}
+
+.saved-pulse {
+  animation: saved-pulse 1.6s ease-out;
+}

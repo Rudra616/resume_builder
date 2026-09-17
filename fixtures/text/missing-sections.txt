@@ -1,0 +1,18 @@
+Sam Whitfield
+sam.whitfield@example.com
+
+EXPERIENCE
+
+QA Engineer
+Brightpath
+• Wrote regression suites for the billing module
+• Triaged incoming bug reports and reproduced customer issues
+• Helped with release sign-off
+
+Support Engineer
+Brightpath
+• Answered technical tickets and escalated defects
+• Wrote internal documentation for common problems
+
+SKILLS
+Testing, Cypress, Postman, SQL, Jira

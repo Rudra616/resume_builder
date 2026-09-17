@@ -1,0 +1,42 @@
+Priya Nair
+Full Stack Developer
+priya.nair@example.com | +1 (415) 555-0134 | San Francisco, CA, USA
+
+Links
+https://www.linkedin.com/in/priyanair/
+github.com/priyanair
+priyanair.dev
+https://behance.net/priyanair
+dribbble.com/priyanair
+stackoverflow.com/users/1234567/priya-nair
+medium.com/@priyanair
+x.com/priyanair
+
+SUMMARY
+Full stack developer working mostly in TypeScript. I like small services, boring deployments and interfaces that survive contact with real users.
+
+EXPERIENCE
+
+Full Stack Developer
+Verity Health, San Francisco
+Apr 2022 - Present
+• Built the patient intake flow used by nine clinics
+• Replaced a nightly CSV export with a documented API
+• Wrote the migration that de-duplicated four years of appointment records
+
+Web Developer
+Kestrel Digital, Remote
+Jan 2020 - Mar 2022
+• Delivered client sites on Next.js with a shared component package
+• Set up preview deployments so clients stopped reviewing screenshots
+
+EDUCATION
+BS Computer Science, San Jose State University, 2015 - 2019
+
+SKILLS
+Frontend: React, Next.js, TypeScript, Tailwind CSS
+Backend: Node.js, PostgreSQL, Prisma, tRPC
+Infrastructure: Vercel, Docker, GitHub Actions
+
+PROJECTS
+Ledgerly - personal finance tracker. Live at ledgerly.app, source at github.com/priyanair/ledgerly.

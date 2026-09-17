@@ -1,0 +1,265 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 1 /Kids [5 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3595 >>
+stream
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 785.89 Tm
+(Rudra Panchal) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 772.39 Tm
+(React Native Developer) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 758.89 Tm
+(rudra.panchal@example.com | +91 98765 43210 | Ahmedabad, Gujarat, India) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 745.39 Tm
+(linkedin.com/in/rudrapanchal | github.com/rudrapanchal) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 731.89 Tm
+() Tj
+ET
+BT
+/F2 12 Tf
+1 0 0 1 56.00 718.39 Tm
+(PROFESSIONAL SUMMARY) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 704.89 Tm
+(React Native developer with four years of experience building cross-platform apps for retail) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 691.39 Tm
+(and logistics teams. Comfortable owning a feature from design review through store release,) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 677.89 Tm
+(and happiest working close to the people using the product.) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 664.39 Tm
+() Tj
+ET
+BT
+/F2 12 Tf
+1 0 0 1 56.00 650.89 Tm
+(WORK EXPERIENCE) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 637.39 Tm
+() Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 623.89 Tm
+(Senior React Native Developer) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 610.39 Tm
+(Northwind Labs, Ahmedabad) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 596.89 Tm
+(Mar 2023 - Present) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 583.39 Tm
+(" Rebuilt the order tracking screen, cutting Android crash reports reported by support) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 569.89 Tm
+(" Introduced a shared component library used by three product squads) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 556.39 Tm
+(" Set up over-the-air release checks so regressions are caught before store submission) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 542.89 Tm
+() Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 529.39 Tm
+(React Native Developer) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 515.89 Tm
+(Kite Studio, Remote) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 502.39 Tm
+(Jul 2021 - Feb 2023) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 488.89 Tm
+(" Shipped an offline-first delivery app used by warehouse staff on low-end devices) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 475.39 Tm
+(" Migrated the codebase to TypeScript alongside two other developers) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 461.89 Tm
+(" Added end-to-end tests for the checkout flow with Detox) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 448.39 Tm
+() Tj
+ET
+BT
+/F2 12 Tf
+1 0 0 1 56.00 434.89 Tm
+(EDUCATION) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 421.39 Tm
+() Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 407.89 Tm
+(B.E. Computer Engineering) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 394.39 Tm
+(Gujarat Technological University) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 380.89 Tm
+(2017 - 2021) Tj
+ET
+BT
+/F2 12 Tf
+1 0 0 1 56.00 367.39 Tm
+(8.4 CGPA) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 353.89 Tm
+() Tj
+ET
+BT
+/F2 12 Tf
+1 0 0 1 56.00 340.39 Tm
+(TECHNICAL SKILLS) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 326.89 Tm
+(Mobile: React Native, Expo, Reanimated) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 313.39 Tm
+(Web: React, TypeScript, Next.js) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 299.89 Tm
+(Backend: Node.js, PostgreSQL, REST) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 286.39 Tm
+(Tooling: Git, Fastlane, Jest, Detox) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 272.89 Tm
+() Tj
+ET
+BT
+/F2 12 Tf
+1 0 0 1 56.00 259.39 Tm
+(PROJECTS) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 245.89 Tm
+() Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 232.39 Tm
+(Trailhead) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 218.89 Tm
+(A hiking log app with offline maps and route sharing.) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 205.39 Tm
+(React Native, SQLite, MapLibre) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 191.89 Tm
+(github.com/rudrapanchal/trailhead) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 178.39 Tm
+() Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000212 00000 n 
+0000000314 00000 n 
+0000000456 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+4103
+%%EOF

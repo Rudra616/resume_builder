@@ -1,0 +1,14 @@
+Lena Fischer
+lena.fischer@example.com
++49 151 5550 123
+Berlin, Germany
+
+I have worked as a technical writer for six years, mostly documenting developer platforms and internal tooling. Before that I taught secondary school physics, which is where I learned to explain things twice in two different ways.
+
+At Rundwerk I owned the developer documentation for their payments API. I rewrote the getting-started guide, which had grown to eleven pages, into a five minute walkthrough. I also set up a docs review step in the release process so undocumented endpoints stopped shipping.
+
+Before Rundwerk I was at Alteris, writing release notes, internal runbooks and the occasional customer-facing guide. I introduced a style guide there and convinced three teams to use it.
+
+I studied physics at Humboldt University and completed a teaching qualification afterwards. German is my first language, English is fluent and my Spanish is somewhere around intermediate.
+
+Tools I use daily: Markdown, Git, Docusaurus, Figma for diagrams, and a lot of curl.

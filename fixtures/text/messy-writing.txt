@@ -1,0 +1,35 @@
+tom hardy-brennan
+react native developer
+tom.hardybrennan@example | 555 1234 | linkedin.com/in/tomhb | portfolio
+
+Summary
+i am a hard working and very good react native developer who is a team player and is responsible for developing mobile applications. I am passionate about about technology and i have excelent comunication skills and i am always seeking for new oportunities to grow and learn and develop myself in a challenging enviroment where i can utilise my skills.
+
+Experiance
+
+react native developer
+Fintrack
+Jan 2023 - Present
+• Responsible for developing mobile applications using react native and javascript
+• Worked on the payment screen and helped with bug fixes and also worked on the settings screen and the profile screen and the onboarding screen which took a long time because the designs kept changing throughout the project
+• Developt new features
+• Recieved feedback from users
+
+junior developer
+Fintrack
+03/2022 - 12/2022
+• Worked on mobile applications
+• Helped with testing
+• Did documentation
+
+Education
+bachelor of computer applications
+Mumbai University
+
+Skills
+react native, React Native, javascript, JavaScript, node js, typescript, HTML, css, git, GIT
+
+Projects
+Fintrack Wallet
+Responsible for developing mobile applications using react native and javascript
+react native, node js

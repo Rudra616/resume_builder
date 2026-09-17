@@ -1,0 +1,465 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 2 /Kids [5 0 R 7 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 4528 >>
+stream
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 785.89 Tm
+(Meera Raghavan) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 772.39 Tm
+(Engineering Manager, Platform) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 758.89 Tm
+(meera.raghavan@example.com) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 745.39 Tm
+(+44 7700 900123) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 731.89 Tm
+(London, United Kingdom) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 718.39 Tm
+(linkedin.com/in/meeraraghavan) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 704.89 Tm
+(github.com/meeraraghavan) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 691.39 Tm
+(meeraraghavan.dev) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 677.89 Tm
+() Tj
+ET
+BT
+/F2 12 Tf
+1 0 0 1 56.00 664.39 Tm
+(SUMMARY) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 650.89 Tm
+(Engineering manager with twelve years across payments, identity and internal platform teams.) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 637.39 Tm
+(I moved into management in 2018 and still review code weekly. Most of my work is about) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 623.89 Tm
+(making delivery predictable without turning teams into ticket factories.) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 610.39 Tm
+() Tj
+ET
+BT
+/F2 12 Tf
+1 0 0 1 56.00 596.89 Tm
+(PROFESSIONAL EXPERIENCE) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 583.39 Tm
+() Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 569.89 Tm
+(Engineering Manager, Platform) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 556.39 Tm
+(Loomis Financial, London) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 542.89 Tm
+(Jan 2022 - Present) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 529.39 Tm
+(" Lead three teams covering identity, payments orchestration and developer tooling) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 515.89 Tm
+(" Introduced a service catalogue that replaced tribal knowledge about ownership) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 502.39 Tm
+(" Ran the migration of eleven services off a shared database, one team at a time) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 488.89 Tm
+(" Hired nine engineers and two tech leads, with a structured interview loom) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 475.39 Tm
+(" Cut the time to provision a new service from two weeks to under a day) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 461.89 Tm
+() Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 448.39 Tm
+(Staff Engineer) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 434.89 Tm
+(Loomis Financial, London) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 421.39 Tm
+(Mar 2020 - Dec 2021) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 407.89 Tm
+(" Designed the tokenisation service that now fronts every card transaction) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 394.39 Tm
+(" Wrote the migration plan that let the payments team stop writing to the legacy ledger) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 380.89 Tm
+(" Mentored four engineers, two of whom now lead their own teams) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 367.39 Tm
+() Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 353.89 Tm
+(Senior Backend Engineer) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 340.39 Tm
+(Halden Pay, Manchester) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 326.89 Tm
+(Feb 2018 - Feb 2020) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 313.39 Tm
+(" Owned the settlement pipeline, including the nightly reconciliation job) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 299.89 Tm
+(" Replaced hand-rolled retries with an idempotency layer, ending duplicate captures) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 286.39 Tm
+(" Added structured logging and tracing across eight services) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 272.89 Tm
+() Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 259.39 Tm
+(Backend Engineer) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 245.89 Tm
+(Halden Pay, Manchester) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 232.39 Tm
+(Aug 2016 - Jan 2018) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 218.89 Tm
+(" Built the merchant onboarding API and its webhook delivery system) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 205.39 Tm
+(" Moved the deployment pipeline from Jenkins to GitHub Actions) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 191.89 Tm
+() Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 178.39 Tm
+(Backend Engineer) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 164.89 Tm
+(Cartwright Systems, Leeds) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 151.39 Tm
+(Sep 2014 - Jul 2016) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 137.89 Tm
+(" Maintained a Django monolith serving twelve regional insurers) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 124.39 Tm
+(" Wrote the reporting exports finance had previously assembled by hand) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 110.89 Tm
+() Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 97.39 Tm
+(Junior Developer) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 83.89 Tm
+(Cartwright Systems, Leeds) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 70.39 Tm
+(Jul 2013 - Aug 2014) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 2077 >>
+stream
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 785.89 Tm
+(" Fixed defects across the claims module and learned to read a stack trace properly) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 772.39 Tm
+(" Wrote the first integration tests the team had) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 758.89 Tm
+() Tj
+ET
+BT
+/F2 12 Tf
+1 0 0 1 56.00 745.39 Tm
+(EDUCATION) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 731.89 Tm
+() Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 718.39 Tm
+(MSc Computer Science) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 704.89 Tm
+(University of Manchester) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 691.39 Tm
+(2012 - 2013) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 677.89 Tm
+() Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 664.39 Tm
+(BSc Mathematics) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 650.89 Tm
+(University of Leeds) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 637.39 Tm
+(2009 - 2012) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 623.89 Tm
+() Tj
+ET
+BT
+/F2 12 Tf
+1 0 0 1 56.00 610.39 Tm
+(CERTIFICATIONS) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 596.89 Tm
+(AWS Certified Solutions Architect - Professional, Amazon Web Services, 2021) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 583.39 Tm
+(Certified Kubernetes Administrator, CNCF, 2020) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 569.89 Tm
+() Tj
+ET
+BT
+/F2 12 Tf
+1 0 0 1 56.00 556.39 Tm
+(SKILLS) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 542.89 Tm
+(Languages: Go, Python, TypeScript, SQL) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 529.39 Tm
+(Platform: Kubernetes, Terraform, AWS, Kafka) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 515.89 Tm
+(Practice: Incident review, hiring, technical strategy, mentoring) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 502.39 Tm
+() Tj
+ET
+BT
+/F2 12 Tf
+1 0 0 1 56.00 488.89 Tm
+(LANGUAGES) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 475.39 Tm
+(English - Native) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 461.89 Tm
+(Tamil - Fluent) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 448.39 Tm
+(German - Intermediate) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 434.89 Tm
+() Tj
+ET
+BT
+/F2 12 Tf
+1 0 0 1 56.00 421.39 Tm
+(AWARDS) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 407.89 Tm
+(Engineering Excellence Award, Loomis Financial, 2023) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 394.39 Tm
+() Tj
+ET
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000218 00000 n 
+0000000320 00000 n 
+0000000462 00000 n 
+0000005042 00000 n 
+0000005184 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+7313
+%%EOF

@@ -1,0 +1,205 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Count 1 /Kids [5 0 R] >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2656 >>
+stream
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 785.89 Tm
+(Aiden Brooks                          CONTACT) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 772.39 Tm
+(Data Engineer aiden.brooks@example.com) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 758.89 Tm
+(+61 400 555 010) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 745.39 Tm
+(PROFILE Melbourne, VIC, Australia) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 731.89 Tm
+(Data engineer who spends most of the) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 718.39 Tm
+(linkedin.com/in/aidenbrooks) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 704.89 Tm
+(day in SQL and Airflow. I care about) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 691.39 Tm
+(github.com/aidenbrooks) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 677.89 Tm
+(pipelines that fail loudly and are) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 664.39 Tm
+(cheap to re-run.                      SKILLS) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 650.89 Tm
+(                                      Python) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 637.39 Tm
+(EXPERIENCE                            SQL) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 623.89 Tm
+(                                      Airflow) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 610.39 Tm
+(Data Engineer                         dbt) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 596.89 Tm
+(Ferngrove Analytics Snowflake) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 583.39 Tm
+(Feb 2022 - Present Terraform) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 569.89 Tm
+(Rebuilt the ingestion layer so late) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 556.39 Tm
+(arriving events no longer corrupt EDUCATION) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 542.89 Tm
+(daily aggregates. BSc Statistics) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 529.39 Tm
+(Documented every dataset owner, Monash) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 515.89 Tm
+(University) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 502.39 Tm
+(which ended a long-running argument 2016 -) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 488.89 Tm
+(2019) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 475.39 Tm
+(about who fixes what.) Tj
+ET
+BT
+/F2 12 Tf
+1 0 0 1 56.00 461.89 Tm
+(LANGUAGES) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 448.39 Tm
+(Analytics Engineer English - Native) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 434.89 Tm
+(Halcyon Retail Mandarin - Intermediate) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 421.39 Tm
+(Jun 2019 - Jan 2022) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 407.89 Tm
+(Modelled the sales mart in dbt and) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 394.39 Tm
+(retired fourteen hand-written views.) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 380.89 Tm
+(Added tests that caught a broken) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 367.39 Tm
+(currency conversion before finance) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 353.89 Tm
+(saw it.) Tj
+ET
+BT
+/F1 10.5 Tf
+1 0 0 1 56.00 340.39 Tm
+() Tj
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000212 00000 n 
+0000000314 00000 n 
+0000000456 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3164
+%%EOF
